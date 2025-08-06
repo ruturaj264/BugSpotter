@@ -11,4 +11,5 @@ class account():
 
     
 my_account = account(100)
+my_account.debit(10)
 
